@@ -1,0 +1,10 @@
+body {
+  background-color: green;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  box-shadow: 1px 1px 50px;
+  text-align: center;
+  margin-top: 100px;
+}
